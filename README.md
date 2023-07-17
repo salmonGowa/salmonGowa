@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmongowa&show_icons=true&locale=en" alt="salmongowa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmongowa&" alt="salmongowa" /></p>
-<p><img align="center" width="400" src="https://wakatime.com/share/@32fa0d1f-83a3-4598-a932-75ad274b8331/49bfef5c-4f5c-4df7-8af3-9e9a2005ccf9.svg"></p>
