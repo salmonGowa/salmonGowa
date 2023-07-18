@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **pyhton, C#, visual basic**
+- 💬 Ask me about **pyhton, C#**
 
 - 📫 How to reach me **gowasalmon@gmail.com**
 
