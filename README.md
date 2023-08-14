@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salmon Gowa</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">A developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/salmon_gowa" target="blank"><img src="https://img.shields.io/twitter/follow/salmon_gowa?logo=twitter&style=for-the-badge" alt="salmon_gowa" /></a> </p>
-
-- 🔭 I’m currently working on **risk assessment with machine learning**
-
-- 🌱 I’m currently learning **Tensorflow**
-
-- 💬 Ask me about **pyhton, C#**
 
 - 📫 How to reach me **gowasalmon@gmail.com**
 
