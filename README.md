@@ -16,6 +16,6 @@
 <a href="https://wakatime.com/@32fa0d1f-83a3-4598-a932-75ad274b8331"><img src="https://wakatime.com/badge/user/32fa0d1f-83a3-4598-a932-75ad274b8331.svg" alt="Total time coded since Mar 6 2023" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmongowa&show_icons=true&locale=en&layout=compact" alt="salmongowa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmongowa&show_icons=true&locale=en" alt="salmongowa" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmongowa&show_icons=true&locale=en" alt="salmongowa" /></p>-->
 
 
