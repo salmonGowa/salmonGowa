@@ -65,7 +65,7 @@ Before that, I scaled secure sign-in for a large consumer base, upgraded legacy 
 | | Impact |
 |---|---|
 | 🤖 **AI in production** | Sole engineer on a RAG pipeline (pgvector), an MCP tool-using agent, and a WhatsApp AI assistant |
-| 🧪 **LLM evaluation** | Led a team writing adversarial coding scenarios and reference solutions (SWE-bench style) at Turing |
+| 🧪 **LLM evaluation** | Led a team writing adversarial coding scenarios and reference solutions (SWE-bench style) 
 | 🔐 **Secure sign-in at scale** | Led migration to Auth0 Universal Login with biometrics for a large customer base |
 | 🚀 **Concept to deployment** | Delivered an AI surveillance system and a smart-parking app, both approved for incubation |
 | 👥 **Leadership** | Introduced Scrum and Design Thinking, mentored junior and senior engineers |
@@ -73,102 +73,6 @@ Before that, I scaled secure sign-in for a large consumer base, upgraded legacy 
 
 ---
 
-## 💼 Experience
-
-> 👇 Click any role to expand the details.
-
-<details open>
-<summary><b>🟢 Project Manager / Tech Lead </b> &nbsp;·&nbsp; <i>Feb 2025 – Present</i></summary>
-<br>
-
-**Stack:** `Python` `Django REST` `Angular` `Docker` `OpenCV` `PyQt` `Kafka` `Spark`
-
-- Led an **AI-powered surveillance system** and a **smart parking application** from concept to deployment; both approved for incubation.
-- Introduced **Scrum** and ran **Design Thinking** sessions with stakeholders, shaping the product roadmap.
-- Mentored junior and senior engineers through training, peer code reviews, and continuous feedback.
-- Built Django REST Framework APIs and **Kafka/Spark pipelines** handling high-volume event and video-derived data.
-- Integrated **OpenCV** computer-vision models into backend services; built PyQt tooling and Angular interfaces from Adobe XD designs.
-- Refined database schemas and API endpoints, cutting query latency on real-time reporting.
-- Owned release quality: test plans and regression suites (pytest, API testing), validated detection accuracy against labeled data, smoke-tested Dockerized deployments.
-
-</details>
-
-<details>
-<summary><b>🧠 Founding Engineer — XiOps Corp</b> &nbsp;·&nbsp; <i>Jan 2024 – Oct 2025</i></summary>
-<br>
-
-**Stack:** `AWS` `Terraform` `Docker` `Python` `Django` `PostgreSQL/pgvector` `TypeScript` `Celery` `Redis` `WhatsApp Business API`
-
-- Solely designed, built, deployed, and maintained the **XiOps management platform** end to end (frontend, backend, database, AWS infrastructure).
-- Shipped production scheduling, tracking, and reporting workflows; owned reliability and performance.
-- Built and operated a **WhatsApp AI assistant** (Django, Celery, pgvector, Docker) handling inbound webhooks and automated responses.
-- Developed a **production RAG pipeline** with reliable async processing, and an **MCP-based agent** that uses tools to complete multi-step tasks.
-
-</details>
-
-<details>
-<summary><b>🧪 Calibrator / Senior Python Engineer (Contract) — Turing</b> &nbsp;·&nbsp; <i>Jun 2024 – Sep 2025</i></summary>
-<br>
-
-**Stack:** `Python` `Django` `Pandas` `NumPy` `PostgreSQL` `SQLAlchemy` `SQLGlot` `Moto` `Docker` `SWE-bench`
-
-- Led a team of data scientists and Python developers creating **adversarial coding scenarios** that expose LLM weaknesses, and wrote improved reference solutions for model training.
-- Reproduced GitHub issues in open-source Python projects (**SWE-bench style**): set up environments, localized defects, documented testable reproduction steps.
-- Benchmarked model outputs, developed evaluation criteria, ran peer reviews, and mentored teammates on quality standards.
-
-</details>
-
-<details>
-<summary><b>📊 Python Software Engineer, AI Benchmarks (Part-time) — Tech Deciphers</b> &nbsp;·&nbsp; <i>Jul 2026 – Aug 2026</i></summary>
-<br>
-
-**Stack:** `Python` `terminal-bench` `Harbor` `Git` `GitHub`
-
-- Built and validated expert-level software engineering, DevOps, and terminal-based benchmark tasks used to train and evaluate AI models.
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend Engineer (Contract) — iHealthWellness Foundation</b> &nbsp;·&nbsp; <i>Sep 2024 – Jun 2025</i></summary>
-<br>
-
-**Stack:** `React` `Next.js` `Figma`
-
-- Built responsive, **WCAG-accessible** React and Next.js interfaces from Figma designs as reusable components integrated with REST APIs.
-- Improved load times and search visibility with SSR/SSG, code splitting, lazy loading, and image optimization.
-- Partnered with design, product, and backend engineers; wrote component tests and joined Git-based code reviews.
-
-</details>
-
-<details>
-<summary><b>🔐 Full-Stack Engineer — Sasavil Technologies</b> &nbsp;·&nbsp; <i>Jun 2021 – Jan 2024</i></summary>
-<br>
-
-**Stack:** `Django` `Python` `GraphQL` `React` `CircleCI` `Docker` `Auth0` `PostgreSQL` `Sentry` `S3` `Terraform` `Snowplow` `Mixpanel`
-
-- Led the migration to **Auth0 Universal Login with biometrics**, simplifying and securing sign-in for a large customer base.
-- Designed and built **GraphQL** endpoints focused on performance, scalability, and security, with unit tests and linters.
-- Upgraded **Django 2.2 → 3.2** and Python dependencies, improving speed and resolving known vulnerabilities.
-- Built React UI components for the Care Planning service that increased member onboarding and adoption.
-- Implemented **Snowplow and Mixpanel** tracking, informing product decisions that raised conversion rates.
-- Led Content Security Policy reporting and CI/CD linting for security compliance.
-
-</details>
-
-<details>
-<summary><b>🌱 Full-Stack Developer Intern — Machini Technologies</b> &nbsp;·&nbsp; <i>Jan 2021 – May 2021</i></summary>
-<br>
-
-**Stack:** `Python` `Django REST` `Docker` `Android` `AWS`
-
-- Built a faster version of the company's stock-taking application, boosting staff productivity.
-- Worked with accounts and procurement teams to deliver new features for the asset management application.
-
-</details>
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -215,7 +119,7 @@ Full-stack **safari tour management** web app.
 
 `Laravel` `React` `PostgreSQL`
 
-[**View repo →**](https://github.com/YOUR_USERNAME/TODO)
+[**View repo →**](https://safaris.xiops.co.ke/)
 
 </td>
 <td width="33%" valign="top">
@@ -245,8 +149,8 @@ Asset-light **agricultural operating system** concept for East Africa.
 <summary><b>📌 Pinned repositories (auto-updating)</b></summary>
 <br>
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=salmonGowa&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/salmonGowa/REPO_NAME_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=salmonGowa&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/salmonGowa/REPO_NAME_2)
 
 </details>
 
@@ -256,25 +160,16 @@ Asset-light **agricultural operating system** concept for East Africa.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=salmonGowa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmonGowa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmonGowa&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=salmonGowa&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
----
 
-## 🎓 Education
-
-- 🎓 **BSc Information Technology**, Mount Kenya University *(in progress)*
-- 🎓 **Diploma in Information Technology**, Jomo Kenyatta University of Agriculture and Technology
-- 📜 **CPA** certification, with a background in financial accounting and bookkeeping
-- 📝 **Publication:** mathematical modelling for policy making [TODO: add link]
-
----
 
 ## 🧭 How I Work
 
