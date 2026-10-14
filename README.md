@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Salmon%20G.%20Ouma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20LLM%20Engineer%20%7C%20Backend%20Architect%20%7C%20Production%20Systems&descAlignY=60&descSize=18" alt="Salmon G. Ouma banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Salmon%&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20LLM%20Engineer%20%7C%20Backend%20Architect%20%7C%20Production%20Systems&descAlignY=60&descSize=18" alt="Salmon G" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=700&lines=Shipping+RAG+pipelines+and+MCP+agents+to+production;Building+adversarial+evals+that+expose+LLM+weaknesses;Taking+products+from+concept+to+deployment;CPA+%2B+Full-Stack+Engineer+%E2%80%94+code+that+understands+money)](https://git.io/typing-svg)
 
